@@ -1,0 +1,4 @@
+state.json
+*.log
+*.tmp
+node_modules/
