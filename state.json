@@ -1,0 +1,10 @@
+{
+    "balances": {
+        "fd390ccc8a31a3889dc41a61da6ebf1a6f5206fe": 1000,
+        "8f93d166e2a69d74c7252ae67446ce1f3d547df8": 500,
+        "d3fcbc1f4c1bd88aa1e1b0332c93f69dec861c17": 2000
+    },
+    "latest_app_hash": "",
+    "latest_block_hash": "",
+    "last_block_height": 0
+}
